@@ -1,0 +1,1 @@
+  # 'summary': soup.find('div', {'class': 'businessSummary Mt(10px) Ov(h) Tov(e)'}).find_all('p')[1].text,
